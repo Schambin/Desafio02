@@ -1,5 +1,6 @@
 # Desafio02
 Desafio proposto durante a trilha Explorer - Stage 2
+
 Sinto que está faltando algo no projeto completo mas não consegui encontrar exatamente o que é
 
 Tela do desafio antes
